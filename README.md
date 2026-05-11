@@ -228,7 +228,6 @@ Planned features include:
 - Fast search engine
 - Timeline history view
 - Regex filtering
-- Export/import support
 - Clipboard analytics
 - Encrypted sync
 - Indexed search
